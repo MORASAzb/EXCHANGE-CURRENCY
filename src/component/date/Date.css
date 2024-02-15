@@ -1,0 +1,16 @@
+span{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    font-size: 30px;
+    text-align: center;
+}
+
+.time{
+    font-weight: bold;
+}
+.day{
+    font-size: medium;
+}

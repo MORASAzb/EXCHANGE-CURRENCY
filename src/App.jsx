@@ -1,4 +1,4 @@
-نوimport './App.css'
+import './App.css';
 import { useEffect, useState } from 'react';
 import ChangeRow from './component/exchange currency/ChangeRow'
 import CurrentDate from './component/date/Date'
